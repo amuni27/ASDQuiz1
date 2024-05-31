@@ -1,0 +1,8 @@
+Functional Requirement
+- The System should add the contact
+- The system should record each contact's first name, last name, company, job title, phone, email
+- The system should accept multiple phone numbers with address labels (Home, Mobile, Work ..)
+- The System should accept multiple email addresses with address labels (Home, Mobile, Work ..)
+- The System should allow the User can search through  the  contacts
+- The System should update and Delete the registered Contact (old contact)
+- The System Should Identify Duplicate Contacts and be able to merge 
